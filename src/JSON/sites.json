@@ -1,0 +1,30 @@
+[
+    {
+        "name":" Tokyo Japan",
+        "image":"japan.jpg"
+    },
+    {
+        "name":" United Kingdom",
+        "image":"uk.jpg"
+    },
+    {
+        "name":" United States America",
+        "image":"usa.jpg"
+    },
+    {
+        "name":" Mumbai India",
+        "image":"India.jpg"
+    },
+    {
+        "name":" Israel",
+        "image":"israel.jpg"
+    },
+    {
+        "name":" Russia",
+        "image":"rus.jpg"
+    },
+    {
+        "name":" Africa",
+        "image":"africa.jpg"
+    }
+]

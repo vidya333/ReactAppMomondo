@@ -1,0 +1,21 @@
+.subscribe{
+    background: linear-gradient(rgba(116, 18, 173, 0.5),rgba(129, 12, 165, 0.5)),url('../../assets/img/air.jpg');
+    width:100%;min-height:300px;
+    background-size: cover;
+}
+.email{
+    border: 2px solid white;
+    width: 70%;
+}
+.subscribe input::placeholder{
+    color: #fff ;
+    padding: 12px;
+}
+@media screen and (max-width:1200px) {
+    .email{
+        width: 100%;
+    }
+    .but{
+        width:100%;
+    }
+}

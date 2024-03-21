@@ -1,0 +1,34 @@
+[
+    {
+        "label":"Flights",
+        "link":"/flights",
+        "isDropdown":false,
+        "isButton":false
+    },
+    {
+        "label":"Hotel",
+        "link":"/hotels",
+        "isDropdown":false,
+        "isButton":false
+    },
+    {
+        "label":"Car Hire",
+        "link":"/carhire",
+        "isDropdown":false,
+        "isButton":false
+    },
+    {
+        "label":"Trip Finder",
+        "link":"/tripfinder",
+        "isDropdown":false,
+        "isButton":false
+    },
+    {
+        "label":"Inspirations",
+        "link":"/inspirations",
+        "isDropdown":false,
+        "isButton":false
+    }
+    
+
+]

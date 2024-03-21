@@ -1,0 +1,26 @@
+.header{
+    background-color: #161638;
+}
+.link:hover{
+    color: #e44d12 !important;
+}
+a{
+    text-decoration: none !important;
+    margin-right: 10px;
+}
+.navbar-toggler {
+    color: antiquewhite !important;
+    border: none !important;
+}
+.navbar-toggler:focus {
+    box-shadow:none;
+}
+.navbar{
+    --bs-navbar-toggler-icon-bg : url(../../assets/img/toggler.jpg);
+}
+.text-green{
+    color: #9ed818 !important;
+}
+.css-1q39md6-MuiButtonBase-root-MuiButton-root:hover {
+    color: #e44d12 !important;
+}

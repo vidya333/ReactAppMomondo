@@ -1,0 +1,11 @@
+.fun{
+    background-image: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5)),url('../../assets/img/arizona.jpg');
+    width: 100%; min-height: 369px;
+    background-size: cover;
+}
+.box{
+    background: linear-gradient(rgb(0,0,0,0.5),rgb(0,0,0,0.5));
+}
+.box:hover{
+    background: linear-gradient(rgba(87, 24, 235, 0.5),rgba(95, 43, 179, 0.5));
+}

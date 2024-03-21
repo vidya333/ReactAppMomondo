@@ -1,0 +1,7 @@
+.help{
+    background: #654dad;
+    width:100%; min-height: 250px;
+}
+@media screen and (max-width:1200px){
+    .coliseum{display: none;}
+}

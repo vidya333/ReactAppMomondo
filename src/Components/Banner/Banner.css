@@ -1,0 +1,32 @@
+.banner{
+    background-image: url('../../assets/img/wallpaperflare-cropped.jpg');
+    width: 100%; min-height: 590px;
+    background-size: cover;
+}
+.bg-pink{
+    background-color: #e02161 !important;
+}
+.bg-purple{
+    background-color: #41245e !important;
+}
+.pil:hover{
+    background-color: #e02161 !important;
+}
+.bg-purple-Transparent{
+    background-color: hsl(270, 45%, 25%,0.8) !important;
+}
+@media  screen and (min-width:1300px){
+    .sub{
+        margin-top: -45px;
+        margin-left: 30px;
+        padding: 40px 0px !important;
+        border-radius: 50% !important;
+    }
+    .sbutton .form-control{
+        width: 50%;
+    }
+    .lastrow{
+        margin-top: -30px;
+    }
+   
+}
